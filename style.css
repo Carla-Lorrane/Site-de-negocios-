@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+header{
+   
+    }
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.um{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    background-color: FFFFFF;
+    align-items: center;
+    gap: 50px;
+    text-decoration: none;
+
+    
+
+}
+.logo{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin: 20px;
+    width: 800px;
+    height: 80px;
+    background-color:FFFFFF;
+    justify-content: flex-end;
+    
+
+
+}
+.local{
+    display: flex;
+    width: 400px;
+   justify-content: end;
+    
+}
+
+
+.tel {
+    width: 200px;
+}
+.banner1{
+    width: 100%;
+    height: 800px;
+    background-color:#172731;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    
+    
+    
+
+}
+img{
+    position: absolute;
+    
+}
+.texto{
+    position: absolute;
+    display: flex;
+    font-size: 32px;
+    color:rgb(27, 27, 27);
+    align-items: center;
+    justify-content:center;
+    width: 550px;
+    flex-direction: column;
+    margin-top: 150px;
+    
+}
+
+p{ 
+    margin: 20px;
+    font-size: small;
+}
+.bot{
+    margin: 50px;
+    display: flex;
+    background-color:#F59D00;
+    width: 300px;
+    align-items:center ;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+h3{
+    color:  darkgray;
+}
+.banner2{
+    display: flex;
+    text-align: center;
+    width: 100%;
+    height: 800px;
+    padding: 30px;
+    color:gray;
+    text-align: center;
+    align-items: center;
+    background-color:#F5F5F5 ;
+}
+.lado1{
+    display: flex;
+    width: 60%;
+    height: 800px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0px;
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:100 ;
+}
+
+.lado2{
+    width: 40%;
+    height: 800px;
+    box-sizing: border-box;
+    align-items: center;
+    flex-direction: row;
+    padding: 30px;
+    display: flex;
+    margin: 30px;
+
+}
+img .b2{
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    margin: 20px;
+    
+}
