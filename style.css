@@ -136,3 +136,37 @@ img .b2{
     margin: 20px;
     
 }
+
+.banner3{
+    height: 900px;
+    display: flex;
+   
+    align-items: safe;
+    justify-content: center;
+    display: flex;
+    justify-content: space-around;
+    background-color:#c4bfbf;
+    
+}
+.boxes{
+    margin: 20px;
+    width: 80%;
+    height: 250px;
+    background-color:#F5F5F5;
+    display: flex;
+    justify-content:  space-around;
+    border-radius: 10px;
+    box-sizing: border-box;
+
+    
+}
+.box1{
+
+    display: flex;
+    width:300px;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-top: 10px;
+    
+
+}
